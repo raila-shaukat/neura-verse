@@ -20,6 +20,6 @@ Explore AI-powered concepts, futuristic designs, and a sleek web experience.
 ---
 
 ## 📸 Image
-![Website Screenshot] (About image)
+![Website Screenshot] (About image.png)
 
 

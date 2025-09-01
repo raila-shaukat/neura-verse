@@ -3,7 +3,11 @@
 Welcome to **NeuraVerse**, a modern, AI-themed website designed to showcase the possibilities of artificial intelligence in a futuristic and interactive interface.  
 Explore AI-powered concepts, futuristic designs, and a sleek web experience.
 
----
+
+
+![Home screenshot](neuraverse.png)
+
+
 
 ## ✨ Features
 - Futuristic, AI-inspired design
@@ -20,6 +24,6 @@ Explore AI-powered concepts, futuristic designs, and a sleek web experience.
 ---
 
 ## 📸 Image
-![Screenshot](Abooutimage.jpg)
+![Screenshot](about.png)
 
 
